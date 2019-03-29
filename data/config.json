@@ -1,0 +1,19 @@
+{
+    "USER": {
+        "DATABASE": "DRIVER={SQL Server};SERVER=123.56.160.179,2478;DATABASE=SP2_Comm_AC3;UID=smartpowerdev5;PWD=smartpowerdev5179",
+        "TABLE": {
+            "dataex": "Comm_Data_Ex",
+            "log": "Comm_Log"
+        }
+    },
+    "COMM": {
+        "DATABASE": "DRIVER={SQL Server};SERVER=123.56.160.179,2478;DATABASE=SP2_User_AC4;UID=smartpowerdev5;PWD=smartpowerdev5179",
+        "TABLE": {
+            "project": "Base_Project",
+            "device": "Base_Device",
+            "devicetype": "Dict_LDevice_Type",
+            "group": "User_Group",
+            "physicsdevice": "Physics_Device"
+        }
+    }
+}
